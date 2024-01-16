@@ -1,0 +1,93 @@
+body{
+	background: #EEEEFF;
+}
+
+.nav-wrapper {
+	background: #7F7CAF;
+}
+
+.title-card{
+	color: #28587B;
+}
+
+.card-text{
+	color: #28587B;
+}
+
+.lnk1{
+	color: #9FB798;
+}
+
+.block1{
+	background: 1px;
+	background: #EEEEFF;
+}
+
+
+.page-footer{
+	background: #7F7CAF ;
+}
+
+.block1 { 
+    width: 600px; 
+/*    background: #ccc;*/
+    padding: 5px;
+    padding-right: 20px; 
+/*    border: solid 1px black; */
+    float: left;
+ 
+   }
+
+   .block2 { 
+    width: 800px;  
+    padding: 5px; 
+/*    border: solid 1px black; */
+    float: left; 
+    position: relative; 
+    left: 10px; 
+   }
+
+   .tester{
+   	margin-top: 25px;
+/*   	background: white;*/
+   	margin-bottom: 700px;
+   }
+
+     .row .col.m7 {
+        width: 90%;
+        margin-left: auto;
+        left: auto;
+        right: auto
+    }
+
+    .text2 {
+    	color: #28587B ;
+    }
+
+    .spysok {
+    	font-size: 16px;
+    }
+
+    .video {
+    	font-size: 18.5px;
+    }
+
+  .col_s12_m7{
+  	width: 1000px;
+  }
+
+ .adv{
+ 	margin-left: 150px;
+ }
+
+ .perevagy{
+ 	margin-right: 400px;
+ }
+
+ .perevagy2{
+ 	margin-right: 400px;
+ }
+
+ .trans {
+	color: #9FB798;
+}
